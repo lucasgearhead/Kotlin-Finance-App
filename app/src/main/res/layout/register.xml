@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="26dp"
         android:background="@android:color/transparent"
-        android:contentDescription="Botão de retornar para a tela anterior"
         android:src="@drawable/icon_return"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
