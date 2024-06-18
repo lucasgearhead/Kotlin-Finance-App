@@ -1,4 +1,40 @@
 <resources>
-    <string name="app_name">pageApp</string>
-    <string name="financeLogo">financeLogo</string>
+    <string name="name">Nome</string>
+    <string name="description">Descrição</string>
+    <string name="quote">Orçamento</string>
+    <string name="color">Cor</string>
+    <string name="revenue_expense">Receita/Despesa</string>
+    <string name="value">Valor</string>
+    <string name="alert">Pergunte-se: Eu realmente preciso disso?</string>
+    <string name="residence">Moradia</string>
+    <string name="transport">Transporte</string>
+    <string name="leisure">Lazer</string>
+    <string name="balance">Saldo</string>
+    <string name="zero_number">R$0,00</string>
+    <string name="logo_descripton">App FinanFácil</string>
+    <string name="desc_register">Botão de registrar</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="amount_of_expense">R$ 1.200,00</string>
+    <string name="desc_img_revenue">Receita</string>
+    <string name="desc_img_expense">Despesa</string>
+    <string name="category">Categoria</string>
+    <string name="food">Alimentação</string>
+    <string name="quote_v_expense">Receita x Despesas</string>
+    <string name="spend_comparison">Comparação gastos</string>
+    <string name="bold_alert">Evite compras impulsivas!</string>
+    <string name="balance_amount">R$ 3.500,00</string>
+    <string name="history">Histórico</string>
+    <string name="desc_dashboard">Botão de dashboard</string>
+    <string name="expenditure_by_category">Despesas por categoria</string>
+    <string name="revenue">Receita</string>
+    <string name="amount_of_revenue">R$ 3.500,00</string>
+    <string name="expenditure">Despesa</string>
+    <string name="desc_history">Botão de histórico</string>
+    <string name="categories">Categorias</string>
+    <string name="desc_categories">Botão de categoria</string>
+    <string name="register">Registrar</string>
+    <string name="new_category">Criar nova categoria</string>
+
+
+
 </resources>
