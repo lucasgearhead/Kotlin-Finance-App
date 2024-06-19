@@ -34,7 +34,29 @@
     <string name="desc_categories">Botão de categoria</string>
     <string name="register">Registrar</string>
     <string name="new_category">Criar nova categoria</string>
-
-
-
+    <string name="current_balance">Saldo Atual</string>
+    <string name="current_balance_value">R$ 3.500,00</string>
+    <string name="monthly_balance_sheet">Balanço Mensal</string>
+    <string name="monthly_balance_sheet_value">R$ 712,00</string>
+    <string name="tuesday">Terça feira, 30</string>
+    <string name="wednesday">Quarta feira, 01</string>
+    <string name="thursday">Quinta feira, 02</string>
+    <string name="spotify">Spotify</string>
+    <string name="cajuzada">Cajuzada</string>
+    <string name="academia">Academia</string>
+    <string name="rogerinho">Rogerinho</string>
+    <string name="agiota">Agiota</string>
+    <string name="salario">Salário</string>
+    <string name="expense_spotify">- R$ 11,90</string>
+    <string name="expense_academia">- R$ 99,00</string>
+    <string name="expense_agiota">-R$ 3.200,00</string>
+    <string name="expense_rogerinho">- R$ 200,00</string>
+    <string name="entry_cajuzada">R$ 616,00</string>
+    <string name="entry_salario">R$ 320,00</string>
+    <string name="time_spotify">11:49</string>
+    <string name="time_academia">10:17</string>
+    <string name="time_agiota">23:43</string>
+    <string name="time_rogerinho">01:21</string>
+    <string name="time_cajuzada">06:59</string>
+    <string name="time_salario">08:59</string>
 </resources>
